@@ -2,7 +2,7 @@
 
 A comprehensive sales analytics dashboard built in Power BI for **Blinkit — India's Last Minute App**, covering outlet performance, item categories, and sales trends from 2012 to 2022.
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ---
 
