@@ -32,8 +32,6 @@ A comprehensive sales analytics dashboard built in Power BI for **Blinkit — In
 blinkit-powerbi-dashboard/
 │
 ├── Blinkit.pbix              # Power BI report file
-├── assets/
-│   └── dashboard-preview.png # Dashboard screenshot
 └── README.md
 ```
 
@@ -76,7 +74,7 @@ blinkit-powerbi-dashboard/
 
 **Rahul** — Order Management & Data Analytics  
 📍 Hyderabad, India  
-🔗 [LinkedIn](https://linkedin.com/in/) | [GitHub](https://github.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/rahul-prasad-1a9577257/) | [GitHub](https://github.com/rahulcreator23)
 
 ---
 
